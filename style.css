@@ -1,3 +1,7 @@
+
+.container{
+    overflow: auto;
+}
 .container span {
     text-decoration: none;
    
@@ -11,4 +15,5 @@
     padding-right: 40px;
     margin-top: 30px;
     margin-left: 30px;
+    
 }
